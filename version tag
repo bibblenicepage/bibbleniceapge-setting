@@ -1,0 +1,67 @@
+-4/12-
+1.持續使用google分析優化seo排行榜(目前只須搜尋"百博升大學"即可找到官網)
+2.landingpage封面請美編找到免版權可商用之圖(如附圖1),重新調整rwd,增加(關於百博|百博名人堂)按鈕連結
+3.修復部落格系統手機板編排錯誤(https://bibble.nicepage.io/blog/2024pr99.html)
+4.landinpage部落預覽系統改寫(附圖2)目前再效能允許下可一次顯示六個部落格文章
+5.刪除landpage百博名人堂影片預覽slider,僅留台大機械工程林言曦,目的是減輕網頁負載
+6.因單次預載圖片對網路需求過大,刪除榜單圖片slider,改用tab+textlsider儲存資訊(圖三),已將高中榜單名單上傳上去了
+7.landingpage添加百博官方line連結按鈕,業務人員可以以更好的方式讓家長加入百博官方line,亦可以順便看到百博的LANDINGPAGE資訊 (圖四)
+   (例如:媽媽那你幫我用手機google上網找一下"百博升大學"的官網,有一個B圖樣的,然後滑到最下面按"百博官方LINE"就可以加入我們好友了,最新的優惠都可以在這裡看到)
+
+未來網站規劃:
+1.申請國中部網域(目前暫定:bibblej.niceapge.io)
+2.持續優化高中部seo與網站效能,增加文字動畫與壁紙
+3.學期課表潛在bug修復
+
+-4/19-
+壹、搜尋引擎最佳化(SEO)部分:
+1.google search console申請成功,高中部網站分析等權限歸在百博資訊中心的帳號(bibblenicepage@gmail.com)(圖1)
+2.sitemap登入給google,讓google搜尋引擎能自動檢索高中部分頁(https://bibble.nicepage.io/sitemap.xml)
+3.safari瀏覽器已認證此為安全網站
+4.埋關鍵字:國文 數學 英文 物理 化學 歷史 社會 補習班 為什麼要補習 升學 成績 升大學
+
+貳、效能
+1.Lazy Loading試做,試圖將低單頁負載(確認無法使用)
+2.SEO預設語言需使用ENG,否則某部分樣式失效(已修復)
+
+參、Landingpage與其他頁面更新
+1.刪除MENU國中部師資(備份於本機)
+2.更新部落格訊息(刪除國小文章)
+3.新增輔導系統+補課系統div+動畫+rwd(圖二)
+4.新增Q&A+rwd(圖三以後)
+
+四、下周方向:
+1.修復+更新學期課表
+2.持續優化seo與效能(等待google分析結果)
+
+-4/26-
+壹、搜尋引擎最佳化(SEO)部分:
+1.官網關鍵字排名:
+　　1.1"百博升大學" GOOGLE 第一名 EDGE第一名 YAHOO 第一名
+ 　　1.2"百博" GOOGLE 第三名 EDGE第一名 YAHOO 第二名
+2.GOOGLE搜尋小圖標已申請更換完成
+
+貳、效能
+1.Lazy Loading 換個寫法,可以用了,現在WINDOWS DOWN一張張讀圖,讀取效能會變快很多
+2.部落格系統 hidden overflow-x (避免偏移)
+
+參、Landingpage與其他頁面更新
+1.學期課程頁刪除國中部資訊&rwd調整
+
+另外5/21的試聽班網路宣傳部分除了我們定期發布FB內容外，我想讓您了解網路的廣告機制,以下是我整理的PPT
+https://docs.google.com/presentation/d/1IqRu6t3KFoG87djkFr5zNqpidd5VsN1YxciwgJS_97Y/edit?usp=sharing
+內容包含：
+1.行銷漏斗模型(電訪、傳單與數位行銷的異同)
+2.我認為各活動可以嘗試撥一點經費給網路廣告的原因
+3.網路廣告的優勢
+若您對數位行銷不排斥，可以在針對這個活動撥一點經費投放看看
+(建議經費如PPT,或是可以以嘗試的預算1500內投放)
+
+-5/3-
+壹、搜尋引擎最佳化(SEO)部分:
+1.Itemlist,進階搜尋試做                                         
+貳、效能                                         
+參、Landingpage與其他頁面更新
+BLOG系統刪除國中部資訊
+更新高中部師資圖卡
+                                         
